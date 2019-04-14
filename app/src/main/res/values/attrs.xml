@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HistogramView">
+        <attr name="graphTitle" format="string"></attr>
+        <attr name="graphTitleSize" format="dimension"></attr>
+        <attr name="graphTitleColor" format="color"></attr>
+        <attr name="xAxisName" format="string"></attr>
+        <attr name="yAxisName" format="string"></attr>
+        <attr name="axisTextSize" format="dimension"></attr>
+        <attr name="axisTextColor" format="color"></attr>
+        <attr name="axisLineColor" format="color"></attr>
+        <attr name="axisLineWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
